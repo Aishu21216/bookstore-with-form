@@ -1,0 +1,151 @@
+#nav{
+    color: red;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+}
+#nav:hover{
+    color: red;
+}
+.imgs{
+    height: 350px;
+    width: 350px;
+    padding: 50px;
+    /* background-color: antiquewhite; */
+}
+.imgs:hover{
+    color:red;
+}
+.firsthead{
+    color:red;
+    padding: 20px;
+    
+}
+.firstpara{
+    color: blue;
+    padding: 60px;
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.firstpara:hover{
+    color: red;
+}
+.sect{
+    background-color: antiquewhite;
+}
+.exploreheading{
+    color: red;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    text-align: center;    
+}
+.explorecards{
+    border-radius: 16px;
+    color: black;
+}
+.explorecards:hover{
+    color:blue;
+}
+.exploreclass{
+    border-radius: 16px;
+}
+.explorelink{
+    color: red;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    text-align: center;
+}
+.exploreimage:hover{
+    color: blue;
+    
+}
+.cardhead4{
+    color:#323f4b;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    margin-top: 24px; 
+   
+}
+.cardhead4:hover{
+    color:palevioletred;
+}
+.payimgpng{
+    height: 300px;
+    width: 350px;
+    padding: 30px;
+    color: red;
+    
+}
+.paymenthead{
+    color: red;
+    font-size:30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;    
+}
+.paypara{
+    color:black;
+    font-size:15px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.paycardes{
+    height: 50px;
+    width: 50px;
+    margin-top: 20px;
+}
+#pay:hover{
+    background-color: antiquewhite;
+}
+.about{
+    color:red;
+    text-align: center;
+    font-size: 40px;
+    padding: 25px;
+}
+.secondhead{
+    color:blue;
+    padding: 10px;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 300;
+}
+.secondpara{
+    padding: 10px;
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100;
+}
+.paras{
+    background-color: antiquewhite;
+}
+.end{
+    text-align: center;
+    padding: 10px;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100;
+}
+.endsection{
+    background-color: antiquewhite;
+}
+.endsection:hover{
+    color: red;
+}
+.socialicons{
+    font-size: 30px;
+    cursor: pointer; 
+    text-align: center;   
+
+}
+.fa-brands{
+    color:black;
+}
+.fa-facebook,.fa-instagram,.fa-twitter,.fa-linkedin{
+    margin: 30px;
+}
+.fa-facebook:hover,.fa-instagram:hover,.fa-twitter:hover,.fa-linkedin:hover{
+    color: red;
+}
